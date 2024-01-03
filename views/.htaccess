@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^editDataAdmin/([0-9a-zA-Z]+)$ views/editDataAdmin.php?id_user=$1 [L]

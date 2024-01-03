@@ -1,0 +1,6 @@
+Tentu, berikut adalah analisis kebutuhan awal untuk sistem "DataPenahanan" (DP):
+Sistem harus dapat mengumpulkan dan menyimpan data tahanan secara efisien. 
+Data ini mungkin termasuk nama, usia, jenis kelamin, alamat, tanggal penahanan, 
+alasan penahanan, dan detail hukuman, petugas penanggung jawab.
+
+

@@ -13,6 +13,8 @@ Web app ini adalah sebuah sistem yang dibuat untuk mempelajari proses CRUD (Crea
 tanpa adanya fitur keamanan apappun. Dalam kasus ini topik yang digunakan adalah Sebuah sistem untuk memanajemen
 data tahanan pada rumah tahanan atau lapas.
 
+aplikasi ini dibuat dengan menggunakan model tampilan dari adminLte
+
 For Login :
 username : admin
 password : admin
